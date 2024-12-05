@@ -8,6 +8,7 @@ Açıklama...
 - 2.Master bir paragraf vardır.
 
 
+
 ## Diff yönetimi
 - diffler.
 - diffler.
