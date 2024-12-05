@@ -1,4 +1,4 @@
-# header kodları burada olacaktır
+# Master header
 
 - Buton 1
 - Buton 2
